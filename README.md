@@ -32,8 +32,6 @@ Users should be able to:
 ### Screenshot
 
 ![Desktop](./screenshot_desktop.png)
-![Mobile](./screenshot_mobile.png)
-
 
 ## My process
 
