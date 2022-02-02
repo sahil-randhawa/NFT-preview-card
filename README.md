@@ -72,7 +72,7 @@ Good practise for responsive layout, image overlay and hover animations.
 
 ## Author
 
-- Website - [Sahil](https://www.artoonal.com)
+- Website - [Artoonal.com](https://www.artoonal.com)
 - Frontend Mentor - [@sahil905](https://www.frontendmentor.io/profile/sahil905)
 
 
