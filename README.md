@@ -1,4 +1,4 @@
-# NFT Preview card HTM CSS Project
+# NFT Preview card HTML CSS Project
 
 ## Frontend Mentor - NFT preview card component solution
 
