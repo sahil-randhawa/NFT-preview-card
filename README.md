@@ -27,7 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [sahil-randhawa.github.io/NFT-preview-card/](https://sahil-randhawa.github.io/NFT-preview-card/)
+- Live Preview: [](https://sahil-randhawa.github.io/NFT-preview-card/)\
+- Frontend Mentor Solution URL: [](https://www.frontendmentor.io/solutions/nft-preview-card-5RTjgrwVm)
 
 ### Screenshot
 
